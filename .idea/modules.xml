@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ac_estrutura_condicional/a_estrutura_condicional/a_estrutura_condicional.iml" filepath="$PROJECT_DIR$/ac_estrutura_condicional/a_estrutura_condicional/a_estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad_estruturas_repetitivas/a_estrutura_repetitiva_while/a_estrutura_repetitiva_while.iml" filepath="$PROJECT_DIR$/ad_estruturas_repetitivas/a_estrutura_repetitiva_while/a_estrutura_repetitiva_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ae.outros_topicos_basicos/a_operadores_bitwise/a_operadores_bitwise.iml" filepath="$PROJECT_DIR$/ae.outros_topicos_basicos/a_operadores_bitwise/a_operadores_bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/af_introducao_a_poo/a_problema_sem_poo/a_problema_sem_poo.iml" filepath="$PROJECT_DIR$/af_introducao_a_poo/a_problema_sem_poo/a_problema_sem_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/a_variaveis/a_variaveis.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/a_variaveis/a_variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa_primeiro_projeto/aa_primeiro_projeto.iml" filepath="$PROJECT_DIR$/aa_primeiro_projeto/aa_primeiro_projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/b_concatenacao/b_concatenacao.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/b_concatenacao/b_concatenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad_estruturas_repetitivas/b_estrutura_repetitiva_for/b_estrutura_repetitiva_for.iml" filepath="$PROJECT_DIR$/ad_estruturas_repetitivas/b_estrutura_repetitiva_for/b_estrutura_repetitiva_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ac_estrutura_condicional/b_exercicio3/b_exercicio3.iml" filepath="$PROJECT_DIR$/ac_estrutura_condicional/b_exercicio3/b_exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ae.outros_topicos_basicos/b_funcoes_string/b_funcoes_string.iml" filepath="$PROJECT_DIR$/ae.outros_topicos_basicos/b_funcoes_string/b_funcoes_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/af_introducao_a_poo/b_problema_com_poo/b_problema_com_poo.iml" filepath="$PROJECT_DIR$/af_introducao_a_poo/b_problema_com_poo/b_problema_com_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad_estruturas_repetitivas/c_estrutura_repetitiva_do_while/c_estrutura_repetitiva_do_while.iml" filepath="$PROJECT_DIR$/ad_estruturas_repetitivas/c_estrutura_repetitiva_do_while/c_estrutura_repetitiva_do_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/c_exercicio1/c_exercicio1.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/c_exercicio1/c_exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ae.outros_topicos_basicos/c_funcoes(sintaxe)/c_funcoes(sintaxe).iml" filepath="$PROJECT_DIR$/ae.outros_topicos_basicos/c_funcoes(sintaxe)/c_funcoes(sintaxe).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ac_estrutura_condicional/c_operadores_de_atribuicao_cumulativa/c_operadores_de_atribuicao_cumulativa.iml" filepath="$PROJECT_DIR$/ac_estrutura_condicional/c_operadores_de_atribuicao_cumulativa/c_operadores_de_atribuicao_cumulativa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/af_introducao_a_poo/c_problema2/c_problema2.iml" filepath="$PROJECT_DIR$/af_introducao_a_poo/c_problema2/c_problema2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso_java2026.iml" filepath="$PROJECT_DIR$/.idea/curso_java2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/d_entrada_de_dados/d_entrada_de_dados.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/d_entrada_de_dados/d_entrada_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ac_estrutura_condicional/d_switch_case/d_switch_case.iml" filepath="$PROJECT_DIR$/ac_estrutura_condicional/d_switch_case/d_switch_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ac_estrutura_condicional/e_condicional_ternaria/e_condicional_ternaria.iml" filepath="$PROJECT_DIR$/ac_estrutura_condicional/e_condicional_ternaria/e_condicional_ternaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/e_entrada_de_dados/e_entrada_de_dados.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/e_entrada_de_dados/e_entrada_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ac_estrutura_condicional/f_escopo_e_inicializacao/f_escopo_e_inicializacao.iml" filepath="$PROJECT_DIR$/ac_estrutura_condicional/f_escopo_e_inicializacao/f_escopo_e_inicializacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/f_funcoes_matematicas/f_funcoes_matematicas.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/f_funcoes_matematicas/f_funcoes_matematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ab_estrutura_sequencial/g_exercicio2/g_exercicio2.iml" filepath="$PROJECT_DIR$/ab_estrutura_sequencial/g_exercicio2/g_exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/af_introducao_a_poo/d_exercicio4/problem1/problem1.iml" filepath="$PROJECT_DIR$/af_introducao_a_poo/d_exercicio4/problem1/problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/af_introducao_a_poo/d_exercicio4/problem2/problem2.iml" filepath="$PROJECT_DIR$/af_introducao_a_poo/d_exercicio4/problem2/problem2.iml" />
+    </modules>
+  </component>
+</project>
