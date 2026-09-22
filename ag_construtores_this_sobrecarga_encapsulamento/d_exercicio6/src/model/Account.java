@@ -43,12 +43,12 @@ public class Account {
         this.name = name;
     }
 
-    public double deposit(double balance) {
-        return balance += balance;
+    public double deposit(double amount) {
+        return balance += amount;
     }
 
-    public double withdraw(double balance) {
-        return balance -= balance + TAX;
+    public double withdraw(double amount) {
+        return balance -= amount + TAX;
     }
 
     public String toString(){

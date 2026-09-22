@@ -10,8 +10,11 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
+        Account account;
+
         System.out.print("Enter account number: ");
         int number = sc.nextInt();
+        sc.nextLine();
 
         System.out.print("Enter account holder: ");
         String name = sc.nextLine();
@@ -38,6 +41,8 @@ public class Main {
         System.out.print("Enter a deposit value: ");
         double depositValue = sc.nextDouble();
         account.deposit(depositValue);
+
+        System.out.println("Updated account data:");
         System.out.println(account);
 
         System.out.println();
@@ -45,6 +50,8 @@ public class Main {
         System.out.print("Enter a withdraw value: ");
         double withdrawValue = sc.nextDouble();
         account.withdraw(withdrawValue);
+
+        System.out.println("Updated account data:");
         System.out.println(account);
 
         sc.close();
